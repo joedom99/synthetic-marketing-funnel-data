@@ -10,6 +10,10 @@ This repository contains a synthetic, event-level marketing dataset designed to 
 
 The dataset mirrors a typical digital marketing funnel, where meaningful outcomes (like conversions) are rare relative to overall activity.
 
+This dataset is discussed in more detail in the article  
+**_Why Many Marketing Models Fail: The Problem of Imbalanced Data_**  
+https://blog.marketingdatascience.ai/why-many-marketing-models-fail-the-problem-of-imbalanced-data-ceb8123b80b3
+
 ---
 
 ## Dataset Overview
